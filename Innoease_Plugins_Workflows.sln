@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innoease_Workflows", "Innoease_Workflows.csproj", "{AFF226FA-DA85-44F1-999F-88EC840799CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFF226FA-DA85-44F1-999F-88EC840799CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF226FA-DA85-44F1-999F-88EC840799CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF226FA-DA85-44F1-999F-88EC840799CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF226FA-DA85-44F1-999F-88EC840799CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74F0B706-E4A1-4448-8FA0-19B2F9E99E9A}
+	EndGlobalSection
+EndGlobal
